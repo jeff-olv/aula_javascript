@@ -1,2 +1,2 @@
-# aula_javascript
+# interface-netflix
 Introdução ao JavaScript
